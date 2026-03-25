@@ -1,1 +1,9 @@
 
+{
+  "name": "png-to-svg-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "potrace": "^2.1.0",
+    "sharp": "^0.33.0"
+  }
+}
